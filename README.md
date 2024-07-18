@@ -1,2 +1,2 @@
-# eric60305.github.io
+# ericmeow.github.io
 My Blog Ericmeow
